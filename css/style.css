@@ -393,7 +393,7 @@ ul {
 
 .about-image img {
     border-radius: 10px;
-    box-shadow: var(--box-shadow);
+    /* box-shadow: var(--box-shadow); */
 }
 
 .image-border {
