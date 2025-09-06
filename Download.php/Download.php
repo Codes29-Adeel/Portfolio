@@ -1,6 +1,6 @@
 <?php
 // Set the file path
-$filename = 'Download.php/Adeel khalid-Cv.pdf';
+$filename = 'Download.php/Download.php';
 
 if (file_exists($filename)) {
     // Set headers to force download
