@@ -318,8 +318,9 @@ ul {
 }
 
 .hero-image {
-    max-width: 100%;
-    height: auto;
+    /* max-width: 100%; */
+    width: 700px;
+    height: 700px;
     animation: float 3s ease-in-out infinite;
 }
 
